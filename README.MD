@@ -1,28 +1,24 @@
 # 🍺 BEER PONG 🍺
 ## Haverhill Frat Rules
-
 ![Beer Pong Table](https://imgs.search.brave.com/RmB4lGNkhh_aWO4R_tHpjooZi-yboUKjoWVHX6ADzMc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdG9y/ZS5hdnJpbGxhdmln/bmUuY29tL2Nkbi9z/aG9wL2ZpbGVzL2Jl/ZXItcG9uZ18wMDAw/Xzk1YjIzOTBkLTRm/ZjgtNDQ2MC1iNWU4/LWIyMDUwMTNjYmM3/MV9mZDE4ZGRiOC03/ODQ1LTQ2MjItYWZh/Ni05M2NlYjYwNjY0/NGRfUHJldi5wbmc_/dj0xNzMxNjk5MzE1/JndpZHRoPTEwMDA)
 
-### 📚 Official Rule Book
-Navigate our comprehensive collection of official game modes and modifiers:
+### 📚 Rule Navigation
 
-#### 🎯 Core Game Rules
-- [End Game & Redemption Rules](end-game-rules.md)
-- [Bounce Shot Rules](bounce-rules.md)
+#### 🎯 Core Rules
+- [Bounce Shot Rules](Bounces.md)
+- [End Game & Redemption](Redemption.md)
 
 #### 🎮 Game Variants
 - [Three Cup Monte](three-cup-monte.md) 🍷
-  - *The classic mini game with optional resurrection*
+  - *Wine-optional mini game with resurrection mechanics*
 - [Seven Up Cup](seven-up-cup.md) 🎲
-  - *Traditional formation with a strategic twist*
+  - *Classic formation with resurrection twist*
 
 #### 🌟 Game Modifiers
-- [Hydration Cup Rules](hydration-cup.md) 🧊
-  - *Ice cube defense mechanics*
-  - *Mine field shot system*
-  - *Strategic hydration tracking*
-
--------------------
+- [Hydration Cup & Ice Defense](hydration-cup-ice-mod.md) 🧊
+  - *Strategic ice cube mechanics*
+  - *Mine field system*
+  - *Advanced hydration tracking*
 
 ## ♟️ The Haverhill Difference
 While others play beer pong like checkers, we play it like chess. Our rules embrace:
@@ -37,34 +33,10 @@ While others play beer pong like checkers, we play it like chess. Our rules embr
 
 -------------------
 
-### 🏆 Quick Links
-- [Basic Rules](#)
-- [Tournament Format](#)
-- [House Special Rules](#)
-- [Penalties & Infractions](#)
-
-## 🎓 The Haverhill Philosophy
-*"Where legends are made and friendships are tested"*
-
-We believe in:
-- Creative game variations
-- Strategic depth
-- Fair play
-- Good times
-- Better stories
-
--------------------
-
 #### Est. 2024
 #### Version 1.1
 
 *Grab a partner, rack the cups, and may the best team win!* 
-
-### 📋 Coming Soon
-- Team League Rules
-- Special Event Modifications
-- Holiday Variants
-- And more...
 
 🏆 🎯 🍻 
 
