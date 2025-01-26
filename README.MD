@@ -5,6 +5,9 @@
 ### 📚 Rule Navigation
 
 #### 🎯 Core Rules
+- [Basic Setup](setup.md)
+  -*cup setup*
+  -*re-rack rules*
 - [Bounce Shot Rules](Bounces.md)
 - [End Game & Redemption](Redemption.md)
 - [Swatting and Penalties](swatting-defence-penalties.md)

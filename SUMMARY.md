@@ -2,6 +2,8 @@
 
 * [Haverhill Pong](README.MD)
 
+* [Basic Setup](setup.md)
+
 * [Redemption](Redemption.md)
 
 * [Swatting](swatting-defence-penalties.md)
