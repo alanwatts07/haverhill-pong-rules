@@ -37,6 +37,52 @@ Standard Ball vs Mini Balls
 - High risk, high reward
 - Perfect for clutch moments
 
+### 🎳 BOWLORAMA 🎳
+```
+     🎳
+  🎯🎯🎯
+   🎯🎯
+    🎯
+```
+
+#### Activation
+- Player must shout "BOWLORAMA!"
+- Must use official hoverbowler
+- Must set up pins in proper formation
+- Counts as entire turn for team
+
+#### Mechanics
+- Pins must mirror cup formation
+- One bowling attempt allowed
+- Cups removed = pins knocked down
+- Cups removed are always the same as the pins knocked down, location and all
+- No bounces or trick shots allowed
+
+#### Setup Rules
+- Pins must be:
+  - Clearly visible
+  - Properly spaced
+  - On stable surface
+  - Within regulation distance
+
+#### Strategic Use
+- High risk, high reward
+- Potential for multiple cups
+- Perfect for comeback attempts
+- Tests different skill set
+
+#### Limitations
+- Cannot combine with other power-ups
+- No re-rolls
+- No practice shots
+- Must complete setup within 30 seconds
+
+*Note: Keep the hoverbowler clean and dry for optimal pin action!* 
+
+⚡️ 🎳 🎯
+
+*"Sometimes you gotta roll the hard six"*
+
 *Note: More power-ups coming soon... stay tuned for updates!* 
 
 ### 💫 Future Power-Ups
