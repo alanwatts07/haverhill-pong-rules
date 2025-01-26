@@ -7,6 +7,7 @@
 #### 🎯 Core Rules
 - [Bounce Shot Rules](Bounces.md)
 - [End Game & Redemption](Redemption.md)
+- [Swatting and Penalties](swatting-defence-penalties.md)
 - [Testamonials](review.md)
 
 #### 🎮 Game Variants
