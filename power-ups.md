@@ -1,6 +1,3 @@
-
-Preview
-Text
 # 🔥 Power-Up Rules 🔥
 
 ## 🌟 Current Power-Ups
