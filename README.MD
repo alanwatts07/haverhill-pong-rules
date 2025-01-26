@@ -21,6 +21,9 @@
   - *Strategic ice cube mechanics*
   - *Mine field system*
   - *Advanced hydration tracking*
+- [King Cup](king-cup.md)
+  - *chess-like end-game mechanics*
+  - *protect your king*
 
 ## ♟️ The Haverhill Difference
 While others play beer pong like checkers, we play it like chess. Our rules embrace:
