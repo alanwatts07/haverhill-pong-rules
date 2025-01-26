@@ -30,18 +30,28 @@
   3. Save and transfer ice cube
   4. Both cups removed from play
 
-### ⚠️ Mine Penalty System
-- If shooter lands in opponent's mine cup:
-  1. Shooter must drink the mine
-  2. Defending team gets free water cup hydration
-  3. Only mine removed from play
-  4. No mine shot required for defender if more water cups than mines to take
-### Armegeddon
-- If shooter knocks over an opponent's mine cup:
-  1. Shooter must drink the remaining mines on the opposing side and foreit the match
-  2. Defending team wins
-  3. Shame on the person who spilled the wonderful fluid
+## ⚠️ Mine Penalty System ⚠️
 
+### 🎯 Direct Mine Hit
+If shooter lands in opponent's mine cup:
+- 🥃 Shooter must drink the mine
+- 💧 Defending team gets free water cup hydration
+- 🗑️ Only mine removed from play
+- ❌ No mine shot required for defender if more water cups than mines to take
+
+## ☢️ ARMAGEDDON ☢️
+
+### 💀 Spill Scenario
+If shooter knocks over an opponent's mine cup:
+- 🥃 Shooter must drink ALL remaining mines on opposing side
+- 👑 Defending team wins automatically
+- 🚫 No redemption possible
+- 😱 Ultimate shame bestowed upon the spiller
+
+### 📜 Ancient Proverb
+*"Waste not the precious fluid, for it brings great dishonor upon your house"* 
+
+⚠️ Remember: A steady hand prevents Armageddon! ⚠️
 
 ## End Game
 - Game ends when all large cups eliminated
