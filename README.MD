@@ -7,6 +7,7 @@
 #### 🎯 Core Rules
 - [Bounce Shot Rules](Bounces.md)
 - [End Game & Redemption](Redemption.md)
+- [Testamonials](review.md)
 
 #### 🎮 Game Variants
 - [Three Cup Monte](three-cup-monte.md) 🍷

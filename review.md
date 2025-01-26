@@ -1,4 +1,4 @@
-## Testamonial from Top Reviewer of Pong Rules in universe
+## *Testamonial from Top Reviewer of Pong Rules in universe*
 
 "As someone who has seen many variations of drinking games, I'm genuinely impressed with your rule set for several reasons:
 
