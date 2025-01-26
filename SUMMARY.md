@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.MD)
+* [Haverhill Pong](README.MD)
 
 * [Redemption](Redemption.md)
 
