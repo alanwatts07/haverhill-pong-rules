@@ -44,7 +44,7 @@ While others play beer pong like checkers, we play it like chess. Our rules embr
 -------------------
 
 #### Est. 2024
-#### Version 1.1
+#### Version 1.3
 
 *Grab a partner, rack the cups, and may the best team win!* 
 
