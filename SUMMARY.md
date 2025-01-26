@@ -20,3 +20,5 @@
 
 * [King-Cup](king-cup.md)
 
+* [Power-Ups](power-ups.md) 
+

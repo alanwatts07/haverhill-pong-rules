@@ -8,10 +8,10 @@
         🔴
 ```
 - 4-3-2-1 Triangle formation
-- King cup centered in 3-cup row
+- King cup centered in 3-cup row (if using)
 - Cups must be touching edges
-- Front cup on table edge
-- Equal water levels (1/3 cup)
+- Rear row cups on back table edge
+- Equal cup levels (1/3 cup)
 
 ## 📐 6 Cup Formation (Quick Play)
 ```
@@ -20,9 +20,9 @@
          🔴
 ```
 - 3-2-1 Triangle formation
-- King cup in back center
+- King cup in back center (if using)
 - Cups must be touching edges
-- Rear Row on table edge
+- Rear Row aligned on table edge
 - Equal cup levels (1/3 cup)
 
 ## 🎮 Cup Contact Rules

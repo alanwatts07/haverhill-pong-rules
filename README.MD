@@ -6,11 +6,13 @@
 
 #### 🎯 Core Rules
 - [Basic Setup](setup.md)
-  -*cup setup*
-  -*re-rack rules*
+    - *cup setup*
+    - *re-rack rules*
 - [Bounce Shot Rules](Bounces.md)
 - [End Game & Redemption](Redemption.md)
 - [Swatting and Penalties](swatting-defence-penalties.md)
+- [Power-Ups](power-ups.md)
+    - *balls of fury*
 - [Testamonials](review.md)
 
 #### 🎮 Game Variants
