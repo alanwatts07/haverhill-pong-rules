@@ -7,6 +7,7 @@
 - 3 cups in standard triangle formation
 - Wine can be used instead of beer
 - All standard beer pong rules apply
+- Bouncers are worth the same as air shots
 - Optional resurrection cup mode available
 
 ## 🔄 Resurrection Cup Mode
