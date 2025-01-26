@@ -36,7 +36,7 @@
   2. Defending team gets free water cup hydration
   3. Only mine removed from play
   4. No mine shot required for defender if more water cups than mines to take
-
+### Armegeddon
 - If shooter knocks over an opponent's mine cup:
   1. Shooter must drink the remaining mines on the opposing side and foreit the match
   2. Defending team wins
@@ -45,6 +45,7 @@
 
 ## End Game
 - Game ends when all large cups eliminated
+- Or when a mine is knocked over ('armegeddon')
 - Standard redemption rules apply
 - Remaining mines don't affect game outcome
 
