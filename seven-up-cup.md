@@ -1,5 +1,8 @@
 # 🎯 Seven Up Cup Rules 🎯
 
+![7-up cup](./images/7up.jpg)
+
+
 ## Basic Setup
 - 6 cups in standard triangle formation per side
 - 7th cup serves as resurrection cup

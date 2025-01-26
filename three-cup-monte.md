@@ -1,5 +1,8 @@
 # 🍷 Three Cup Monte Rules 🍷
 
+![3-cup monte](./images/3cup.jpg)
+
+
 ## Basic Setup
 - 3 cups in standard triangle formation
 - Wine can be used instead of beer
