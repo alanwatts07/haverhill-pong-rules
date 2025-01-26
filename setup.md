@@ -1,5 +1,8 @@
 # 🎯 Standard Formation Rules 🎯
 
+![Setup](./images/table.jpg)
+
+
 ## 📐 10 Cup Formation (Classic)
 ```
      🔴🔴🔴🔴

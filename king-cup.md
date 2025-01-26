@@ -1,5 +1,7 @@
 # 👑 King Cup Rules 👑
 
+![Cups and Balls](./images/tools.jpg)
+
 ## 🏰 Setup
 - Standard cup formation
 - One mini cup ("King") per side

@@ -2,6 +2,9 @@
 
 ## 🌟 Current Power-Ups
 
+![Balls](./images/balls.jpg)
+
+
 ### 👊 BALLS OF FURY 👊
 ```
 Standard Ball vs Mini Balls

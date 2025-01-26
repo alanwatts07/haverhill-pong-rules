@@ -10,8 +10,6 @@
 
 * [Bounces](Bounces.md)
 
-* [Reviews](review.md)
-
 * [Three-Cup-Monte](three-cup-monte.md)
 
 * [Seven-Up-Cup](seven-up-cup.md)
@@ -21,4 +19,6 @@
 * [King-Cup](king-cup.md)
 
 * [Power-Ups](power-ups.md) 
+
+* [Reviews](review.md)
 
