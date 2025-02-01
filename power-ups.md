@@ -85,6 +85,56 @@ Standard Ball vs Mini Balls
 
 *Note: More power-ups coming soon... stay tuned for updates!* 
 
+### 🛡️ Malcolm A. Bump Trophy Shield 🏆
+
+#### 🏆 The Sacred Shield
+```
+     🏆
+  🔴🔴🔴
+   Maybe Protected!
+```
+
+#### 📜 Trophy Lore
+- Ancient artifact (est. pre-2020)
+- Housed in official trophy case
+- Must be handled with respect
+- Returns to case after use
+
+#### ⚔️ Activation Requirements
+- Must declare "I INVOKE THE MALCOLM!"
+- Can only be used once per game
+- Must be holding trophy properly
+- Cannot be dropped or mishandled
+
+#### 🛡️ Shield Mechanics
+- Attempt to block ONE opponent's shot
+- Success not guaranteed
+- Can be attempted against:
+  - Regular throws
+  - Bounces
+  - Power-ups
+- Must defend cups without moving them
+- Cannot interfere with table surface
+
+#### ⚠️ Restrictions
+- Cannot be combined with other power-ups
+- Must be returned to case immediately after use
+- If dropped during use = 2 cup penalty
+- No practice attempts allowed
+
+#### 💫 Strategic Use
+- Save for clutch moments
+- Risky bounce defense
+- Great counter to Balls of Fury
+- Emergency redemption protection
+- Results may vary
+
+*Note: Handle with care - this is a sacred artifact!* 
+
+🛡️ 🏆 🎲
+
+*"The Malcolm works in mysterious ways"*
+
 ### 💫 Future Power-Ups
 - Coming Soon...
 - Under Development...

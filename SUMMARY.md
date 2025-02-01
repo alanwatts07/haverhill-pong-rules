@@ -16,6 +16,8 @@
 
 * [Hydration-Cup](hydration-cup-ice-mod.md)
 
+* [Visualization-Cup](visualization-cup.md)
+
 * [King-Cup](king-cup.md)
 
 * [Power-Ups](power-ups.md) 

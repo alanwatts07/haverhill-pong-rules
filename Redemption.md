@@ -17,9 +17,10 @@
   - Team 1 shoots first
 
 ## 🚫 SEALED GAME 🚫
-- If last cup is hit with a bounce shot
+- If last (single) cup is hit with a bounce shot
 - Game ends immediately
 - No redemption allowed
 - Automatic victory for Team 1
+- Also applies to a multi-bounce shot when cups removed would leave the other team negative
 
 *Note: All redemption shots must be completed in one turn*
