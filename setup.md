@@ -43,7 +43,7 @@
 
 ## 🔄 Re-Rack Rules
 - Available at ANY time
-- EXCEPT with 2 cups remaining
+- EXCEPT with 2 cups remaining *('with 2 cups, you screwed up')*
 - Any formation allowed IF:
   - All cups touching properly
   - Following cup contact rules

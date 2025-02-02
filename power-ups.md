@@ -135,6 +135,58 @@ Standard Ball vs Mini Balls
 
 *"The Malcolm works in mysterious ways"*
 
+### 🗼 UPenn Tower Trophy Shield 🏆
+
+#### 🏆 The Dramatic Defense
+```
+     🗼
+     |
+  🔴🔴🔴
+Tall But Tricky!
+```
+
+#### 📜 Trophy Lore
+- UPenn 4th Place Dramatic Interpretation
+- Elegant yet precarious design
+- Housed in official trophy case
+- Superior height, challenging balance
+
+#### ⚔️ Activation Requirements
+- Must declare "TOWER DEFENSE!"
+- Can only be used once per game
+- Requires steady hands
+- Extra care due to height
+
+#### 🛡️ Shield Mechanics
+- Attempt to block ONE opponent's shot
+- Taller blocking range than Malcolm
+- More difficult to control
+- Success highly variable due to:
+  - Trophy height
+  - Narrow profile
+  - Balance requirements
+  - Dramatic flair
+
+#### ⚠️ Restrictions
+- Cannot be combined with other power-ups
+- Must be returned to case immediately
+- If dropped during use = 3 cup penalty
+- Higher risk than Malcolm shield
+- No theatrical performances during use
+
+#### 💫 Strategic Use
+- Better against high arcing shots
+- Risky against straight shots
+- Less effective vs bounce shots
+- Perfect for blocking sniper shots
+- Results heavily dependent on user skill
+
+*Note: Handle with extreme care - dramatic accidents have dramatic consequences!* 
+
+🗼 🏆 🎭
+
+*"To block, or not to block - that is the question"*
+
 ### 💫 Future Power-Ups
 - Coming Soon...
 - Under Development...

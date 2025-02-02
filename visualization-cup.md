@@ -1,5 +1,7 @@
 # 🌈 Visualization Cup Rules 🌈
 
+![TheRhine](https://assets-v8.rivieratravel.co.uk/content/RivieraUSA/images/River_Cruises/Thumbnails/RCH/RCH_Thumb_V8.jpg)
+
 ## 🧘‍♂️ Core Concept
 Transform each loss into a win by mentally teleporting to epic locations while drinking!
 

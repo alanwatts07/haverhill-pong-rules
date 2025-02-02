@@ -1,5 +1,7 @@
 # 🍺 BEER PONG 🍺
 ## Haverhill Frat Rules
+
+***"You gotta have balls to play pong." (But girls are welcome to play)***
 ![Haverhill Setup](./images/setup.jpg)
 
 ### 📚 Rule Navigation
